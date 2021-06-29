@@ -16,7 +16,7 @@ so that their account balance is accurate, especially when traveling. This gives
 # Installation 
 I used 'npm i' to insall all required pacakages.
 # Contribution
-Myself
+Feel free to create a pull request or fork repo
 # Questions
 ## GitHub 
  Lyndseyfin
