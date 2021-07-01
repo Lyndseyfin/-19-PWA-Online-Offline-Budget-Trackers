@@ -1,8 +1,8 @@
 # 19-PWA-Online-Offline-Budget-Trackers
 
 # Description
-User will be able to track my withdrawals and deposits with or without a data/internet connection
-so that their account balance is accurate, especially when traveling. This gives users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+User will be able to track withdrawals and deposits with or without a data/internet connection
+so that their account balance is accurate, especially when traveling. This gives users a fast and easy way to track their money, allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
 # Table of Contents
 1. [Title](Title)
@@ -25,8 +25,8 @@ Feel free to create a pull request or fork repo
 ## License
 ![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen)
 ## Heroku
-<a href="">Budget Tracker</a>
+<a href="https://fierce-tor-51491.herokuapp.com/">Budget Tracker</a>
 
 ## Screenshot
-![screenshot]()
+![screenshot](images/bt.jpg)
 
